@@ -1,5 +1,5 @@
 
-# <div align="center" > #0969DA🧍Historia Usuario No. 1
+# <div align="center" > 🧍Historia Usuario No. 1
 
 ## Uso de aplicación bancaria móvil 📱
 
@@ -28,6 +28,9 @@
 **Como** usuario **quiero** que el dinero del exterior, llegue directamente a la cuenta 
 **para** retirar el dinero de una manera más fácil, rápida y segura
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/879f8dc9-c226-45bf-ae8b-85cfc394ceb6" />
+
+
 >CRITERIOS DE ACEPTACIÓN
 
 1. Al recibir una transferencia internacional, el usuario debe recibir una notificación push, un correo electrónico o un SMS informándole de la transacción recibida
@@ -41,6 +44,9 @@
 ## Uso de la aplicación bancaria móvil 🌏
 
 **Como** usuario **quiero** poder simular créditos directamente en la app, **para** tener una idea de lo que voy a cancelar al realizar un crédito
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/330a3128-97d8-4a5a-a460-c372801616ca" />
+
 
 >CRITERIOS DE ACEPTACIÓN
 
