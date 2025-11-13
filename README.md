@@ -33,8 +33,8 @@
 
 >CRITERIOS DE ACEPTACIÓN
 
-1. Al recibir una transferencia internacional, el usuario debe recibir una notificación push, un correo electrónico o un SMS informándole de la transacción recibida
-2. Cuando se realiza una transferencia de "x" cantidad en USD desde el extranjero, la app debe permitirle ver la cantidad en dólares o en la moneda local (por ejemplo, en pesos o euros), según la preferencia de configuración y también debe permitir que se realicen de los países que más frecuencia realicen envíos a Ecuador
+1. Al recibir una transferencia internacional, el usuario debe recibir una notificación, correo electrónico o mensaje de texto informándole de la transacción recibida
+2. Cuando se realiza una transferencia de "x" cantidad en dólares desde el extranjero, la app debe permitirle ver la cantidad en la moneda local (por ejemplo, en pesos o euros), según la preferencia de configuración y también debe permitir que se realicen de los países que más frecuencia realicen envíos a Ecuador
 3. El usuario debe poder consultar el estado de la transferencia, ver si está pendiente, completada o si ha habido algún problema con la misma (por ejemplo, si hay un retraso o error)
 
 
@@ -50,10 +50,10 @@
 
 >CRITERIOS DE ACEPTACIÓN
 
-1. En la pantalla principal de la app o en el menú de productos, debe haber un acceso directo y visible para simular un crédito, con un nombre claro como "Simulación de Crédito" o "Calculadora de Crédito"
+1. En la pantalla principal debe verse un menú de productos y debe haber un acceso directo y visible para simular un crédito, con un nombre claro como "Simulación de Crédito" o "Calculadora de Crédito"
 2. La pantalla de simulación debe tener campos claros donde el usuario ingrese información relevante como el monto deseado, plazo, tasa de interés (o calcularla automáticamente), y un botón de "Calcular" visible. Además, el diseño debe ser limpio y sin elementos innecesarios.
-3. Si la app ofrece más de un tipo de crédito, debe haber una opción para elegir el tipo de préstamo (personal, hipotecario, automotriz, etc.), y la simulación debe ajustarse a las condiciones específicas de ese producto (por ejemplo, plazos más largos para créditos hipotecarios).
-4. Después de la simulación, la app debe mostrar un resumen visual con el monto total, el pago mensual, el interés total y el costo total del crédito en un formato fácil de leer. También debe incluir una advertencia que los resultados son aproximados y que la aprobación de un crédito está sujeta a la evaluación del banco.
+3. Debe haber una opción para elegir el tipo de préstamo (personal, hipotecario, automotriz, etc.), y la simulación debe ajustarse a las condiciones específicas de ese producto (por ejemplo, plazos más largos para créditos hipotecarios).
+4. Después de la simulación, la app debe mostrar un resumen visual con el monto total, el pago mensual, el interés total y el costo total del crédito en un formato fácil de leer. También debe incluir un mensaje de advertencia que los resultados son aproximados y que la aprobación de un crédito está sujeta a la evaluación del banco.
 
 
 
