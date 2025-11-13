@@ -3,9 +3,9 @@
 ## Uso de aplicación bancaria móvil 📱
 
 **Como** usuario **quiero** que al momento de realizar transferencias o pagos, se pueda visualizar la hora 
-**para** obtener un mayor control y registro de mi dinero 
+**para** obtener un mayor control y registro de mi dinero   
+                                                                                        <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2d83ed9d-5431-46d3-b83e-4f122aa29409" />
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/48ac2588-d7c0-481b-b82f-adddf5064f13" />
 
 
 >CRITERIOS DE ACEPTACIÓN
