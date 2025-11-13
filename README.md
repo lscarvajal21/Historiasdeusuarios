@@ -6,11 +6,11 @@
 **Como** usuario **quiero** que al momento de realizar transferencias o pagos, se pueda visualizar la hora 
 **para** obtener un mayor control y registro de mi dinero   
 
-<<div align="center" ><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2d83ed9d-5431-46d3-b83e-4f122aa29409" />>
+<div align="center" ><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2d83ed9d-5431-46d3-b83e-4f122aa29409" />
 
 
+><div align="center" >CRITERIOS DE ACEPTACIÓN
 
->CRITERIOS DE ACEPTACIÓN
 1. La hora debe vincularse automáticamente con la hora del teléfono
 2. La app debe manejar correctamente las zonas horarias. Si el usuario está en una zona horaria diferente a la de la transacción, la hora debe ser convertida a la zona horaria del usuario
 3. Al consultar las transacciones en la App bancaria móvil, la hora debe tener el formato de 24h y debe visualizarse tanto en el portal, como la app
