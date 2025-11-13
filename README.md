@@ -1,5 +1,5 @@
 
-# <div align="center" > 🧍Historia Usuario No. 1
+# <div align="center" > #0969DA🧍Historia Usuario No. 1
 
 ## Uso de aplicación bancaria móvil 📱
 
@@ -9,7 +9,7 @@
 <div align="center" ><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2d83ed9d-5431-46d3-b83e-4f122aa29409" />
 
 
-><div align="center" >CRITERIOS DE ACEPTACIÓN
+>CRITERIOS DE ACEPTACIÓN
 
 1. La hora debe vincularse automáticamente con la hora del teléfono
 2. La app debe manejar correctamente las zonas horarias. Si el usuario está en una zona horaria diferente a la de la transacción, la hora debe ser convertida a la zona horaria del usuario
