@@ -6,7 +6,7 @@
 **Como** usuario **quiero** que al momento de realizar transferencias o pagos, se pueda visualizar la hora 
 **para** obtener un mayor control y registro de mi dinero   
 
-<div align="center" ><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2d83ed9d-5431-46d3-b83e-4f122aa29409" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2d83ed9d-5431-46d3-b83e-4f122aa29409" />
 
 
 >CRITERIOS DE ACEPTACIÓN
@@ -21,14 +21,14 @@
 **Valor:** Permite obtener un mayor control y registro de ingresos y egresos
 
 
-# 👧 Historia Usuario No.2
+# <div align="center" > 👧 Historia Usuario No.2
 
 ## Uso de la aplicación bancaria móvil 🏦
 
 **Como** usuario **quiero** que el dinero del exterior, llegue directamente a la cuenta 
 **para** retirar el dinero de una manera más fácil, rápida y segura
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/879f8dc9-c226-45bf-ae8b-85cfc394ceb6" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/879f8dc9-c226-45bf-ae8b-85cfc394ceb6" />
 
 
 >CRITERIOS DE ACEPTACIÓN
@@ -38,7 +38,7 @@
 3. El usuario debe poder consultar el estado de la transferencia, ver si está pendiente, completada o si ha habido algún problema con la misma (por ejemplo, si hay un retraso o error)
 
 
-# 🤝 Historia Usuario No. 3
+# <div align="center" > 🤝 Historia Usuario No. 3
 
 
 ## Uso de la aplicación bancaria móvil 🌏
