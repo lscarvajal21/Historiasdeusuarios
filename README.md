@@ -1,6 +1,6 @@
 # 🧍Historia Usuario No. 1
 
-## 📱 Uso de aplicación bancaria móvil
+## Uso de aplicación bancaria móvil 📱
 
 **Como** usuario **quiero** que al momento de realizar transferencias o pagos, se pueda visualizar la hora 
 **para** obtener un mayor control y registro de mi dinero 
@@ -16,9 +16,9 @@
 **Valor:** Permite obtener un mayor control y registro de ingresos y egresos
 
 
-# Historia Usuario No.2
+# 👧 Historia Usuario No.2
 
-## Uso de la aplicación bancaria móvil
+## Uso de la aplicación bancaria móvil 🏦
 
 **Como** usuario **quiero** que el dinero del exterior, llegue directamente a la cuenta 
 **para** retirar el dinero de una manera más fácil, rápida y segura
@@ -30,9 +30,10 @@
 3. El usuario debe poder consultar el estado de la transferencia, ver si está pendiente, completada o si ha habido algún problema con la misma (por ejemplo, si hay un retraso o error)
 
 
-# Historia Usuario No. 3
+# 🤝 Historia Usuario No. 3
 
-## Uso de la aplicación bancaria móvil
+## Uso de la aplicación bancaria móvil <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/196e9713-f069-4ea9-8c59-dda609e57cb4" />
+
 
 **Como** usuario **quiero** poder simular créditos directamente en la app, **para** tener una idea de lo que voy a cancelar al realizar un crédito
 
