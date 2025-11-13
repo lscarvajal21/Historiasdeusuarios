@@ -1,7 +1,7 @@
 
 # <div align="center" > 🧍Historia Usuario No. 1
 
-## Uso de aplicación bancaria móvil 📱
+## Uso de aplicación bancaria móvil 📱 Mostrar hora en las transacciones
 
 **Como** usuario **quiero** que al momento de realizar transferencias o pagos, se pueda visualizar la hora 
 **para** obtener un mayor control y registro de mi dinero   
@@ -23,7 +23,7 @@
 
 # <div align="center" > 👧 Historia Usuario No.2
 
-## Uso de la aplicación bancaria móvil 🏦
+## Uso de la aplicación bancaria móvil 🏦 Reflejar el dinero recibido del exterior
 
 **Como** usuario **quiero** que el dinero del exterior, llegue directamente a la cuenta 
 **para** retirar el dinero de una manera más fácil, rápida y segura
@@ -41,7 +41,7 @@
 # <div align="center" > 🤝 Historia Usuario No. 3
 
 
-## Uso de la aplicación bancaria móvil 🌏
+## Uso de la aplicación bancaria móvil 🌏 Simulación de crédito dentro de la aplicación bancaria móvil
 
 **Como** usuario **quiero** poder simular créditos directamente en la app, **para** tener una idea de lo que voy a cancelar al realizar un crédito
 
