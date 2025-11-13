@@ -53,8 +53,7 @@
 1. En la pantalla principal de la app o en el menú de productos, debe haber un acceso directo y visible para simular un crédito, con un nombre claro como "Simulación de Crédito" o "Calculadora de Crédito"
 2. La pantalla de simulación debe tener campos claros donde el usuario ingrese información relevante como el monto deseado, plazo, tasa de interés (o calcularla automáticamente), y un botón de "Calcular" visible. Además, el diseño debe ser limpio y sin elementos innecesarios.
 3. Si la app ofrece más de un tipo de crédito, debe haber una opción para elegir el tipo de préstamo (personal, hipotecario, automotriz, etc.), y la simulación debe ajustarse a las condiciones específicas de ese producto (por ejemplo, plazos más largos para créditos hipotecarios).
-4. Cuando el usuario vea los resultados de la simulación, debe ser capaz de ver un desglose de cada cuota mensual, detallando cuánto es capital y cuánto es interés, junto con el monto total a pagar durante la vida del crédito.
-5. Después de la simulación, la app debe mostrar un resumen visual con el monto total, el pago mensual, el interés total y el costo total del crédito en un formato fácil de leer. También debe incluir una advertencia que los resultados son aproximados y que la aprobación de un crédito está sujeta a la evaluación del banco.
+4. Después de la simulación, la app debe mostrar un resumen visual con el monto total, el pago mensual, el interés total y el costo total del crédito en un formato fácil de leer. También debe incluir una advertencia que los resultados son aproximados y que la aprobación de un crédito está sujeta a la evaluación del banco.
 
 
 
