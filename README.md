@@ -5,6 +5,9 @@
 **Como** usuario **quiero** que al momento de realizar transferencias o pagos, se pueda visualizar la hora 
 **para** obtener un mayor control y registro de mi dinero 
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/48ac2588-d7c0-481b-b82f-adddf5064f13" />
+
+
 >CRITERIOS DE ACEPTACIÓN
 1. La hora debe vincularse automáticamente con la hora del teléfono
 2. La app debe manejar correctamente las zonas horarias. Si el usuario está en una zona horaria diferente a la de la transacción, la hora debe ser convertida a la zona horaria del usuario
@@ -32,8 +35,8 @@
 
 # 🤝 Historia Usuario No. 3
 
-## Uso de la aplicación bancaria móvil <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/196e9713-f069-4ea9-8c59-dda609e57cb4" />
 
+## Uso de la aplicación bancaria móvil 🌏
 
 **Como** usuario **quiero** poder simular créditos directamente en la app, **para** tener una idea de lo que voy a cancelar al realizar un crédito
 
