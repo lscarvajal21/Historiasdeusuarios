@@ -6,7 +6,7 @@
 **Como** usuario **quiero** que al momento de realizar transferencias o pagos, se pueda visualizar la hora 
 **para** obtener un mayor control y registro de mi dinero   
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2d83ed9d-5431-46d3-b83e-4f122aa29409" />
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/2d83ed9d-5431-46d3-b83e-4f122aa29409" />
 
 
 >CRITERIOS DE ACEPTACIÓN
@@ -28,7 +28,7 @@
 **Como** usuario **quiero** que el dinero del exterior, llegue directamente a la cuenta 
 **para** retirar el dinero de una manera más fácil, rápida y segura
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/879f8dc9-c226-45bf-ae8b-85cfc394ceb6" />
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/879f8dc9-c226-45bf-ae8b-85cfc394ceb6" />
 
 
 >CRITERIOS DE ACEPTACIÓN
@@ -45,7 +45,7 @@
 
 **Como** usuario **quiero** poder simular créditos directamente en la app, **para** tener una idea de lo que voy a cancelar al realizar un crédito
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/330a3128-97d8-4a5a-a460-c372801616ca" />
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/330a3128-97d8-4a5a-a460-c372801616ca" />
 
 
 >CRITERIOS DE ACEPTACIÓN
